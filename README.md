@@ -1,4 +1,4 @@
-# Simple Pure PyTorch implementation of Equivariant GNN
+# Simple and short implementation of Equivariant GNN | Pure PyTorch
 
 A short (50 lines of code) and easy implementation of [E(n) Equivariant Graph Neural Networks](https://arxiv.org/pdf/2102.09844.pdf).
 
