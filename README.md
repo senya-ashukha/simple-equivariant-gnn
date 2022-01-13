@@ -5,7 +5,7 @@
 
 - A short implementation of [E(n) Equivariant Graph Neural Networks](https://arxiv.org/pdf/2102.09844.pdf) for [highest occupied molecular orbital energy](https://en.wikipedia.org/wiki/HOMO_and_LUMO) prediction.
 - Just 50 lines of code; The implementation is based on pure PyTorch & Numpy, it has no external packages (like PyTorch-geometric).
-- Closely match Mean Absolute Error reported in the paper.
+- Closely matches the Mean Absolute Error reported in the paper.
 
 <p align="center">
 <img height="320" src="egnn.png"/>
