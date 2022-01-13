@@ -1,0 +1,1 @@
+This folder is mostly borrowed from the official repo https://github.com/vgsatorras/egnn.
